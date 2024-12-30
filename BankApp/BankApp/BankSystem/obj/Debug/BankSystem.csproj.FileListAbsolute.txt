@@ -1,0 +1,6 @@
+C:\Users\imadk\source\repos\BankApp\BankSystem\bin\Debug\BankSystem.dll
+C:\Users\imadk\source\repos\BankApp\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\imadk\source\repos\BankApp\BankSystem\obj\Debug\BankSystem.csproj.AssemblyReference.cache
+C:\Users\imadk\source\repos\BankApp\BankSystem\obj\Debug\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\imadk\source\repos\BankApp\BankSystem\obj\Debug\BankSystem.dll
+C:\Users\imadk\source\repos\BankApp\BankSystem\obj\Debug\BankSystem.pdb

@@ -1,0 +1,10 @@
+C:\Users\imadk\source\repos\BankApp\BankApp\bin\Debug\BankApp.exe.config
+C:\Users\imadk\source\repos\BankApp\BankApp\bin\Debug\BankApp.exe
+C:\Users\imadk\source\repos\BankApp\BankApp\bin\Debug\BankApp.pdb
+C:\Users\imadk\source\repos\BankApp\BankApp\bin\Debug\BankSystem.dll
+C:\Users\imadk\source\repos\BankApp\BankApp\bin\Debug\BankSystem.pdb
+C:\Users\imadk\source\repos\BankApp\BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\imadk\source\repos\BankApp\BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\imadk\source\repos\BankApp\BankApp\obj\Debug\BankApp.csproj.CopyComplete
+C:\Users\imadk\source\repos\BankApp\BankApp\obj\Debug\BankApp.exe
+C:\Users\imadk\source\repos\BankApp\BankApp\obj\Debug\BankApp.pdb
